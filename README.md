@@ -3,4 +3,5 @@
 | -------- | -------- | -------- |
 | Domingo Oropeza | (DIOH) | Ing. Sistemas |
 | Diego Potapczuk | | |
+| Ivan Del Pino   | Ivans  | Ing. Sistemas |
 
